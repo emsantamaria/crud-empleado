@@ -1,0 +1,3 @@
+null,     null,     null, 0.0,     01/03/98
+1, pedro, gerente, 23.0, 02/04/11
+2, null, null, 0.0, 01/01/2000
